@@ -1,0 +1,81 @@
+// This Machine Code Calculates the GCD of two Numbers
+// In Hexadecimal Number
+
+00008020
+20100078                   // change the least two significant decimals with the first number in hexadecimal format
+00008820
+201100B4                   // change the least two significant decimals with the second number in hexadecimal format
+00009020
+12110006
+0211482A
+11200002
+02308822
+08000005
+02118022
+08000005
+00109020
+AC120000
+
+
+
+
+
+/*
+// This Machine Code Calculates the Factorial of a given Number
+00008020
+20100007            // change the least two significant decimals with the number in hexadecimal format
+00008820
+20110001
+12000003
+0230881C
+2210FFFF
+08000004
+AC110000
+*/
+
+
+/*
+// mipstest.asm
+// David_Harris@hmc.edu, Sarah_Harris@hmc.edu 31 March 2012
+//
+// Test the MIPS processor.
+// add, sub, and, or, slt, addi, lw, sw, beq, j
+// If successful, it should write the value 7 to address 84
+20020005
+2003000c
+2067fff7
+00e22025
+00642824
+00a42820
+10a7000a
+0064202a
+10800001
+20050000
+00e2202a
+00853820
+00e23822
+ac670044
+8c020050
+08000011
+20020001
+ac020054
+*/
+
+
+
+
+/*
+  22300005
+  AD300004
+*/
+
+
+
+
+
+
+
+
+
+
+
